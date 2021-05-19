@@ -7,4 +7,4 @@ Some AI notebooks didactic applications
 ### [MNIST-handwritten digits](/MNIST_handwrittenDigit_database.ipynb)
 ### [Iris Flower](/IrisFlower_dataset.ipynb)
 ### [English sign language numbers](/EnglishSignLanguageNumbers_dataset.ipynb)
-### [Retail & Sales](/RetailAndSales.ipynb)
+### [Retail Sales](/RetailSales.ipynb)
