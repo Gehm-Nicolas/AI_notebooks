@@ -13,25 +13,25 @@ They are sorted by:
 - [Retail Sales](/RetailSales.ipynb)<br><br>
 
 ## NEURAL NETWORK ARCHITECTURE
-### Convolutional Neural Network
+#### CONVOLUTIONAL
 - [CIFAR-10](/CIFAR10_dataset.ipynb)
 - [English sign language numbers](/EnglishSignLanguageNumbers_dataset.ipynb)
-### Perceptron
+#### PERCEPTRON
 - [Iris Flower](/IrisFlower_dataset.ipynb)
 - [MNIST-handwritten digits](/MNIST_handwrittenDigit_database.ipynb)
 - [Retail Sales](/RetailSales.ipynb) (I'm not shure about this one. It uses gensim Word2Vec model default NN)<br><br>
 
 ## LIBRARY
-### GENSIM
+#### GENSIM
 - [Retail Sales](/RetailSales.ipynb)
-### TENSORFLOW / KERAS
+#### TENSORFLOW / KERAS
 - [CIFAR-10](/CIFAR10_dataset.ipynb)
 - [English sign language numbers](/EnglishSignLanguageNumbers_dataset.ipynb)
-### RAW CODING
+#### RAW CODING
 - [Iris Flower](/IrisFlower_dataset.ipynb)
 - [MNIST-handwritten digits](/MNIST_handwrittenDigit_database.ipynb)<br><br>
 
-## DATA MANIPULATION LIBRARIES USED
+## DATA MANIPULATION LIBRARIES
 - matplotlib
 - numpy
 - pandas
